@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Jaro:opsz@6..72&display=swap');
+
+body{
+    margin: 0;
+    margin-top: 0;
+    background-color: coral;
+}
+
+#cabecalho{
+    font-family: "DotGothic16", sans-serif;
+    color: orange;
+    background-color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   font-size: 20px;
+}
+
+#listas{
+    font-size: 50px;
+    top: 50px;
+    padding: 10px;  
+    color: white;
+    background-color: coral;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+li{
+    list-style-type: none;
+}

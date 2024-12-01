@@ -1,0 +1,18 @@
+button{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: orange;
+    color: white;
+    width: 300px;
+    padding: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+button:hover{
+background-color: blue;
+}
+
+h1{
+    text-align: center;
+}

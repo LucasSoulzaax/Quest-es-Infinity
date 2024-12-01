@@ -1,0 +1,55 @@
+
+body{
+
+    margin: 0;
+    
+}
+
+header{
+
+    display: flex;
+    
+    justify-content: center;
+}
+
+#container{
+
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px;
+}
+
+
+.secao1, .secao2{
+    justify-content: space-around;
+    background-color: rgb(221, 27, 27);
+    color: white;
+    gap: 90px;
+    padding: 40px;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40px;
+    margin: 90px;
+    border-radius: 40px;
+}
+
+.secao1 img{
+
+    width: 30vw;
+
+}
+
+
+
+
+
+
+
+.secao2 img{
+
+    width: 30vw;
+
+}
